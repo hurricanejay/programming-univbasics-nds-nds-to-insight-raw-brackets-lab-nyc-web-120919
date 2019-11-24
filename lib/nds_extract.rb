@@ -25,7 +25,7 @@ def directors_totals(nds)
   end
 
   totals
-
+end
   # get director name, worldwide gross, 
   # Use loops, variables and the accessing method, [], to loop through the NDS
   # and total up all the
